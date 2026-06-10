@@ -3,3 +3,4 @@ Curso de Git Rebase - Practica
 
 Paso 1: Este es el contenido inicial en la rama 'main'.
 Paso 2: Esta linea se agrego en la rama 'main'.
+Paso 3 (feature): Cambios en la rama feature/mi-practica.
