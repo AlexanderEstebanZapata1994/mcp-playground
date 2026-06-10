@@ -25,3 +25,5 @@ server.tool(
 )
 
 const serverUrl = `http://localhost:3000`;
+
+console.log('Server running on', serverUrl)
