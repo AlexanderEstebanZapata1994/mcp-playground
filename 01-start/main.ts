@@ -23,3 +23,5 @@ server.tool(
         }
     }
 )
+
+const serverUrl = `http://localhost:3000`;
